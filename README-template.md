@@ -20,6 +20,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
+
+
 ### The challenge
 
 Users should be able to:
@@ -44,6 +46,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
+1.- Check designs and define mentally map HTML segments
+2.- init git repo
+3,- organize base colors and fonts
 
 ### Built with
 
