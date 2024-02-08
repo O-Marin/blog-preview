@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/O-Marin/blog-preview)
-- Live Site URL: [Add live site URL here](https://o-marin.github.io/blog-preview/)
+- Solution URL: [Repository](https://github.com/O-Marin/blog-preview)
+- Live Site URL: [Live Page](https://o-marin.github.io/blog-preview/)
 
 
 
